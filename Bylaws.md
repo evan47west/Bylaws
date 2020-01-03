@@ -825,3 +825,7 @@ NOW, THEREFORE, BE IT RESOLVED THAT this 151st Convention of the Delta Upsilon F
   16. Cooking is only permitted in the kitchen.
   17. All brothers are responsible for keeping all common areas including the porch clean.
   18. The possession and/or use of firearms on chapter property is prohibited.
+  19. No brother shall permit anybody who is not listed on the lease to use their room as their primary place of residence. Primary place of residence shall be defined as:
+     - The location where a person spends the night on a consistent basis
+     - The location of a significant amount of their belongings  
+     - Or any combination of the above that is deemed to be excessive by J-Board
