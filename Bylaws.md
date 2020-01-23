@@ -85,6 +85,7 @@ The Executive Committee is composed of the following six (6) Chapter officers:
   - Member-At-Large, Treasurer
   - Vice-President of Member Recruitment
   - House Manager
+  - Associate Member Educator
 
 Hereafter in these By-Laws, the Executive Committee shall be referred to as the EC. The term ECM shall denote the Executive Committee Meeting.
 
@@ -150,9 +151,7 @@ Roll book numbers shall be assigned to initiating Members at the time of initiat
 
   1. Each Associate Member Class shall be considered separately and the lowest roll book numbers shall be assigned to the Associate Member Class that was pledged first.
 
-  2. Roll book numbers within an associate class shall be determined by a ranking system developed by the Vice-President of Member Education. This system shall be posted and available at all times throughout the pledge semester. The Vice-President of Member Education shall present the point system to the Executive Committee at the first ECM of the semester. The Executive Committee shall approve the ranking system by a majority vote. The Vice-President of Member Education shall then present the ranking system to the Chapter at the first GFM of the semester. The Chapter shall approve the ranking system by a majority vote.
-
-  3. Tentative roll book numbers shall be posted by the Vice-President of Member Education one week prior to Associate Member Initiation day. Any discrepancies may be brought up at the GFM and changes may be made at this time by a 2/3 vote of the Active Brothers present and voting.
+  2. Roll book numbers within an associate class shall be determined by a ranking system developed by the Associate Member Educator. This system shall be posted and available at all times throughout the pledge semester. The Associate Member Educator shall present the point system to the Executive Committee at the first ECM of the semester. The Executive Committee shall approve the ranking system by a majority vote. The Associate Member Educator shall then present the ranking system to the Chapter at the first GFM of the semester. The Chapter shall approve the ranking system by a majority vote.
 
 ### Section 5.
 All pledging shall be in accordance with the Rules and By-Laws of the International Fraternity, the Interfraternity Council, and the Rules of Georgia Tech. All men pledged shall participate in the Associate Member Pinning ceremony and admitted through the rite of initiation provided in the Constitution and By-Laws of the International Fraternity.
@@ -215,7 +214,8 @@ The order of exercises at all regular meetings shall be as follows:
     1. Rush Chair's report
   11. House Manager’s report.
     1. Assistant House Manager's repot.
-  12. Vice-President of Member Education’s report.
+  12. Associate Member Educator's report.
+  13. Vice-President of Member Education’s report.
     1. Campus Relation Chair’s report.
     2. IFC Representative’s report.
     3. Alumni and Parent Relations Chair’s report
@@ -347,9 +347,7 @@ The President shall preside at the meetings of the Chapter and Executive Committ
 The President shall coordinate and lead meetings of the Chapter and Executive Committee. The President shall serve as a liaison to the Georgia Tech Interfraternity Council, the Georgia Tech chapter of Delta Upsilon Alumni Advisory Board, the Chapter, the community, the International Fraternity, and any Georgia Tech campus services. He shall be responsible for all reports to the Delta Upsilon Quarterly and the Georgia Tech chapter newsletter. He shall work closely with every EC officer to ensure that all of their duties are well executed and supported, especially with the planning of the Brotherhood retreat. The President may bring any Chapter officer to the Judicial Board for impeachment.
 
 ### Section 2.
-The Vice-President of Member Education shall perform the duties of the President in the temporary absence or disability of the President. He shall chair the Member Education Committee.  He shall be responsible for Chapter participation in Georgia Tech events to include but not limited to Dean Dull, Greek Week, and Homecoming.  He shall be responsible for the education and development of all Active Brothers and oversee the Associate Member Educator.  He shall plan in coordination with the Associate Member Educator the Associate Member Pinning, the Associate Member Retreat, and the Associate Member Initiation.  He shall present to EC the Associate Member ranking system at the first ECM of every semester.  He shall be responsible to the Executive Committee for the conduct and performance of all officers on his committee. The Vice President Member Education may bring the Associate Member Educator, any MEC officer or any officer under the supervision of an MEC officer to the Judicial Board for impeachment. These appointed and elected officers are:
-
-  - The Associate Member Educator shall be responsible for the education and development of all Associate Members of the chapter. He shall work with the Vice President of Member Education to prepare the Associate Member education curriculum. He shall present to the EC the Associate Member point system at the first ECM of every semester. He shall work with the Vice President of Member Education to plan Associate Member Pinning, the Associate Member Retreat, and the Associate Member Initiation. The Associate Member Educator will work directly under the Vice-President of Member Education.
+The Vice-President of Member Education shall perform the duties of the President in the temporary absence or disability of the President. He shall chair the Member Education Committee.  He shall be responsible for Chapter participation in Georgia Tech events to include but not limited to Dean Dull, Greek Week, and Homecoming.  He shall be responsible for the education and development of all Active Brothers.  He shall be responsible to the Executive Committee for the conduct and performance of all officers on his committee. The Vice President Member Education may bring any MEC officer or any officer under the supervision of an MEC officer to the Judicial Board for impeachment. These appointed and elected officers are:
 
   -  Chapter Secretary shall keep a record of the proceedings the active Membership, the MEC, and other such matters of interest or value to the Chapter.  He shall keep a record of who is absent from Mandatory Events as defined in Article 3 Section 6 and report this information at the first regular JBM following the missed event.  He shall also keep a record of the Associate Member points as approved by the Member Education Committee.  He shall be responsible to the MEC for the conduct and performance of all officers on his committee.  He may bring any officer under his supervision to the Judicial Board for impeachment. These appointed officers are: (none)
 
@@ -384,6 +382,9 @@ The Vice-President of Member Recruitment shall coordinate the recruitment progra
 ### Section 6.
 The House Manager shall be responsible for the wellbeing of the house and grounds. He shall also be responsible for the administration of room assignments.  He shall be responsible for organization and execution of Work Week, to be conducted the week prior to Fall Rush. He shall be responsible for the organization and execution of mid-semester house upkeep which shall be determined at the beginning of each semester. He shall, in coordination with the Chapter Secretary, keep a record of who is absent from Work Week activities and report this to the Judicial Board at the first regular JBM of Fall Semester. He shall be responsible to the Executive Committee for the conduct and performance of all officers under his supervision.  He may bring any officer under his supervision to the Judicial Board for impeachment. These elected officers are:
   - Assistant House Manager shall be responsible for learning the responsibilities of the House Manager and shall perform the duties of the House Manager in the temporary absence or disability of the House Manager.  He is responsible for working with the House Manager on house and grounds related matters on an as needed basis.  He shall be responsible for assigning work assignments throughout the year as designed by the House Manager and reporting any and all fines or credits to the Treasurer. Work assignments for the entire semester shall be posted within two weeks of the conclusion of Rush with assignments prior being posted at the discretion of the House Manager.
+  
+### Section 7.
+The Associate Member Educator shall be responsible for the education and development of all Associate Members of the chapter. He shall prepare the Associate Member education curriculum. He shall present to the EC the Associate Member point system at the first ECM of every semester. He shall plan Associate Member Pinning, the Associate Member Retreat, and the Associate Member Initiation. He shall be responsible to the Executive Committee for the conduct and performance of all officers on his committee.  He may bring any officer under his supervision to the Judicial Board for impeachment. These appointed officers are: (none)
 
 # <a name="nine"></a>ARTICLE 9. Committees
 
@@ -408,7 +409,7 @@ Any chapter officer may create a committee in which that officer is the chairman
 # <a name="ten"></a>ARTICLE 10. The Executive Committee
 
 ### Section 1.
-The Executive Committee shall consist of the President, Vice-President of Member Education, Member-At-Large, Treasurer, Vice-President of Member Recruitment, and House Manager. A quorum of the Executive Committee shall consist of 4 (four) Members.  In the event of a tie, the President’s vote shall be the decider.
+The Executive Committee shall consist of the President, Vice-President of Member Education, Member-At-Large, Treasurer, Vice-President of Member Recruitment, House Manager, and Associate Member Educator. A quorum of the Executive Committee shall consist of 4 (four) Members.  In the event of a tie, the President’s vote shall be the decider.
 
 ### Section 2.
 The Executive Committee shall have general oversight of the Chapter and shall meet prior to each meeting of the Chapter. Any Brother or Associate Member of the Chapter may attend and speak on any matter that affects or pertains to himself only. Its duties shall be the following:
