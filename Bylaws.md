@@ -1,4 +1,4 @@
-Updated: February 13, 2019 by Addison Ku (Member-at-Large)
+Updated: January 22, 2020 by Ryan Cobelli (Member-at-Large)
 
 ---
 
@@ -40,16 +40,16 @@ This society shall be called the Georgia Tech Chapter of Delta Upsilon Fraternit
 
 ### Section 2.
 The Four Founding Principles of the Chapter shall be:
-1.   The Promotion of Friendship
-2.   The Diffusion of Liberal Culture
-3.   The Development of Character
-4.   The Advancement of Justice
+  1. The Promotion of Friendship
+  2. The Diffusion of Liberal Culture
+  3. The Development of Character
+  4. The Advancement of Justice
 
 ### Section 3.
 In accordance with the Four Founding Principles, the Chapter shall be:
-1.   Non-Secret
-2.   Non-Sectarian
-3.   Non-Hazing
+  1. Non-Secret
+  2. Non-Sectarian
+  3. Non-Hazing
 
 ### Section 4.
 These By-Laws are intended to supplement and be deemed subordinate to the Constitution and By-Laws of the Delta Upsilon International Fraternity and wherever any conflict shall arise between any provision thereof and such Constitution and By- Laws of the Delta Upsilon Fraternity, hereinafter called International Fraternity.
@@ -72,17 +72,18 @@ by general consent of the fraternity, shall be considered null and void.
 ### Section 3.
 Said amendments shall, upon approval by 2/3 vote of the active Chapter present and voting, be designated as a bylaw.
 
-# <a name="three"></a>ARTICLE 3.  Definitions
+# <a name="three"></a>ARTICLE 3. Definitions
 
 ### Section 1.
 General Fraternity Meetings are meetings of the Chapter where business is to be transacted. Hereafter in these By-Laws the term GFM shall denote the General Fraternity Meeting.  Quorum shall be defined as 2/3’s of the active brotherhood, not including out of town co-ops. People who are ineligible to vote will not count against quorum. In a simple majority vote there must be at least one more yes vote than no vote. In a 2/3 majority vote there must be exactly two times as many yes votes than no
 votes.
 
 ### Section 2.
-The Executive Committee is composed of the following six (6) Chapter officers:
+The Executive Committee is composed of the following seven (7) Chapter officers:
   - President
   - Vice-President of Member Education
-  - Member-At-Large, Treasurer
+  - Member-At-Large
+  - Treasurer
   - Vice-President of Member Recruitment
   - House Manager
   - Associate Member Educator
@@ -90,7 +91,7 @@ The Executive Committee is composed of the following six (6) Chapter officers:
 Hereafter in these By-Laws, the Executive Committee shall be referred to as the EC. The term ECM shall denote the Executive Committee Meeting.
 
 ### Section 3.
-The Member Education Committee is composed of the following nine (9) Chapter officers:
+The Member Education Committee is composed of the following ten (10) Chapter officers:
   - Vice-President of Member Education
   - Chapter Secretary
   - Campus Relations Chair
@@ -129,7 +130,7 @@ An Associate Member shall be any prospective brother of Delta Upsilon who has ac
 ### Section 8.
 All active brothers will be required to complete a work task each semester at the direction of the House Manager in order to maintain proper upkeep and maintenance of the Chapter House.
 
-# <a name="four"></a>ARTICLE 4.  Membership Procedures
+# <a name="four"></a>ARTICLE 4. Membership Procedures
 
 ### Section 1.
 The Vice-President of Member Recruitment shall be delegated the power to extend a bid to any male undergraduate student who is duly enrolled at Georgia Tech and otherwise eligible for brotherhood. The Chapter shall also be empowered to extend a bid upon an 80% vote. A re-vote may be requested by any member present and voting.
@@ -154,7 +155,7 @@ Roll book numbers shall be assigned to initiating Members at the time of initiat
   2. Roll book numbers within an associate class shall be determined by a ranking system developed by the Associate Member Educator. This system shall be posted and available at all times throughout the pledge semester. The Associate Member Educator shall present the point system to the Executive Committee at the first ECM of the semester. The Executive Committee shall approve the ranking system by a majority vote. The Associate Member Educator shall then present the ranking system to the Chapter at the first GFM of the semester. The Chapter shall approve the ranking system by a majority vote.
 
 ### Section 5.
-All pledging shall be in accordance with the Rules and By-Laws of the International Fraternity, the Interfraternity Council, and the Rules of Georgia Tech. All men pledged shall participate in the Associate Member Pinning ceremony and admitted through the rite of initiation provided in the Constitution and By-Laws of the International Fraternity.
+All pledging shall be in accordance with the Rules and By-Laws of the International Fraternity, the Inter-fraternity Council, and the Rules of Georgia Tech. All men pledged shall participate in the Associate Member Pinning ceremony and admitted through the rite of initiation provided in the Constitution and By-Laws of the International Fraternity.
 
 ### Section 6.
 Brothers of Delta Upsilon, duly initiated at other Chapters, who transfer to Georgia Tech, may apply for active status in the Georgia Tech Chapter after a period of two months enrollment at Georgia Tech. Their entry into active status shall be approved by a majority vote of those present and voting at a duly called regular GFM, said election to active status to take place not less than one week after their written application for affiliation has been presented at a GFM. The affiliated Brother would then be an Active Brother for the purposes of these By-Laws.
@@ -230,13 +231,12 @@ The order of exercises at all regular meetings shall be as follows:
   15. New Business.
   16. General Announcements.
   17. For the Good of the Order.
-  18. DU of the week award.
-  19. Recognition of alumni present.
-  20. General criticism.
-  21. Chapter critic.
+  18. Song, Dog, and Fish master
+  19. DU of the week award.
+  20. Recognition of alumni present.
+  21. General criticism.
   22. Associate Member Criticism
-  23. Song, Dog, and Fish master
-  24. Adjournment.
+  23. Adjournment.
 
 ### Section 4.
 On any parliamentary issue not directly specified in these by-laws, Robert's Rules of Order, Newly Revised Edition, shall determine procedure.
@@ -297,10 +297,13 @@ Officer elections shall be in the following order:
 All officers as listed in Article 6. Section 6. are to be transitioned on the GFM that includes J-Board Elections following Elections. This will only hold the exception if said elected officer is out of town the semester he is elected. This will result in a special induction ceremony during the first GFM of spring semester.
 
 ### Section 8.
-No person may hold more than one elected position, an elected position and an appointed position, or more than one appointed position within the same term unless otherwise specified within these By-Laws.  If the number of positions exceeds the number of Active Brothers, EC positions and Chapter Secretary shall be filled first; MEC positions shall be filled second, J-Board positions shall be filled third, with the remaining positions filled on an as needed basis. Excluding during the transition period (after inductions and before the end of the semester) during which the Treasurer still acts as head of meal-plan and acts as a tutor toward the Assistant Treasurer.
+No person may hold more than one elected position, an elected position and an appointed position, or more than one appointed position within the same term unless otherwise specified within these By-Laws.
+
+If the number of positions exceeds the number of Active Brothers, EC positions and Chapter Secretary shall be filled first; MEC positions shall be filled second, J-Board positions shall be filled third, with the remaining positions filled on an as needed basis. Excluding during the transition period (after inductions and before the end of the semester) during which the Treasurer still acts as head of meal-plan and acts as a tutor toward the Assistant Treasurer.
 
 ### Section 9.
 Failure to meet the following requirements will automatically remove the Brother in question from the specified Chapter officer position:
+
   1. If upon election a Brother is found to have not been eligible for election and the Brother did not have an approved appeal.
   2. Membership on the J-Board shall be contingent upon maintaining less than a $100 debt to all chapter accounts past the tenth (10th) day of issuance of bills for the term
   3. A Brother may appeal his eligibility to the J-Board. The J-Board may decide by a majority affirmative vote if the Brother in question is eligible to remain in office.
@@ -344,10 +347,12 @@ A run-off will occur any time an election involving more than two candidates res
 ### Section 1.
 The President shall preside at the meetings of the Chapter and Executive Committee.
 
-The President shall coordinate and lead meetings of the Chapter and Executive Committee. The President shall serve as a liaison to the Georgia Tech Interfraternity Council, the Georgia Tech chapter of Delta Upsilon Alumni Advisory Board, the Chapter, the community, the International Fraternity, and any Georgia Tech campus services. He shall be responsible for all reports to the Delta Upsilon Quarterly and the Georgia Tech chapter newsletter. He shall work closely with every EC officer to ensure that all of their duties are well executed and supported, especially with the planning of the Brotherhood retreat. The President may bring any Chapter officer to the Judicial Board for impeachment.
+The President shall coordinate and lead meetings of the Chapter and Executive Committee. The President shall serve as a liaison to the Georgia Tech Inter-fraternity Council, the Georgia Tech chapter of Delta Upsilon Alumni Advisory Board, the Chapter, the community, the International Fraternity, and any Georgia Tech campus services. He shall be responsible for all reports to the Delta Upsilon Quarterly and the Georgia Tech chapter newsletter. He shall work closely with every EC officer to ensure that all of their duties are well executed and supported, especially with the planning of the Brotherhood retreat. The President may bring any Chapter officer to the Judicial Board for impeachment.
 
 ### Section 2.
-The Vice-President of Member Education shall perform the duties of the President in the temporary absence or disability of the President. He shall chair the Member Education Committee.  He shall be responsible for Chapter participation in Georgia Tech events to include but not limited to Dean Dull, Greek Week, and Homecoming.  He shall be responsible for the education and development of all Active Brothers.  He shall be responsible to the Executive Committee for the conduct and performance of all officers on his committee. The Vice President Member Education may bring any MEC officer or any officer under the supervision of an MEC officer to the Judicial Board for impeachment. These appointed and elected officers are:
+The Vice-President of Member Education shall perform the duties of the President in the temporary absence or disability of the President. He shall chair the Member Education Committee.  
+
+He shall be responsible for Chapter participation in Georgia Tech events to include but not limited to Dean Dull, Greek Week, and Homecoming.  He shall be responsible for the education and development of all Active Brothers.  He shall be responsible to the Executive Committee for the conduct and performance of all officers on his committee. The Vice President Member Education may bring any MEC officer or any officer under the supervision of an MEC officer to the Judicial Board for impeachment. These appointed and elected officers are:
 
   - Chapter Secretary shall keep a record of the proceedings the active Membership, the MEC, and other such matters of interest or value to the Chapter.  He shall keep a record of who is absent from Mandatory Events as defined in Article 3 Section 6 and report this information at the first regular JBM following the missed event.  He shall also keep a record of the Associate Member points as approved by the Member Education Committee.  He shall be responsible to the MEC for the conduct and performance of all officers on his committee.  He may bring any officer under his supervision to the Judicial Board for impeachment. These appointed officers are: (none)
 
@@ -369,20 +374,24 @@ The Vice-President of Member Education shall perform the duties of the President
 
 ### Section 3.
 The Member-At-Large shall serve on the Executive Committee, have the responsibility to serve as the voice of the Chapter on the Executive Committee and take minutes of the Executive Committee, to Chair the Judicial Board, and to serve as a moderator of GFM General Criticism. As chair of the Judicial Board, it is his responsibility to take minutes of all proceedings and to ensure that all Members brought before the J-Board are notified of any and all decisions relating to that Member as well as informing all officers responsible for carrying out any sanctions deemed necessary by the J-Board.  He shall be responsible to the Executive Committee for the conduct and performance of all officers under his supervision.  He may bring any officer under his supervision to the Judicial Board for impeachment. These elected officers are:
+
   - All representatives to the Judicial Board as defined in these By-Laws.
 
 ### Section 4.
 The Treasurer shall have charge of all financial and related matters subject to the supervision of and under the direction of the House Corporation. He shall keep proper books of the Chapter’s accounts in accordance with the instructions of the Alumni Chapter and shall report weekly to the Chapter at regular meetings with a correct statement of the financial condition thereof and shall make a like statement to the Committee on Undergraduate Activities of the International Fraternity.  He shall present a budget, to be approved by the EC, at the first ECM of each term. He shall be responsible to the Executive Committee for the conduct and performance of all officers under his supervision.  He may bring any officer under his supervision to the Judicial Board for impeachment. These elected officers are:
+
   - Assistant Treasurer shall learn the responsibilities of the Treasurer and shall perform the duties of the Treasurer in the temporary absence or disability of the Treasurer. He is responsible for working with the Treasurer on financial related matters on an as needed basis.  He shall have charge of the kitchen account to include the upkeep of the kitchen facility, creating and maintaining a semesterly Meal Plan budget, and supervision of all kitchen employees.  He shall present a budget, to be approved by the EC, at the first ECM of each term.
 
 ### Section 5.
 The Vice-President of Member Recruitment shall coordinate the recruitment program of the Chapter. He is responsible for educating the membership in the proper techniques of rush and for planning and directing the Chapter’s formal, informal and summer rush efforts. In addition the Vice-President of Member Recruitment is fully responsible for training the Rush Chair during the time in which he holds the position. The Vice- President of Member Recruitment is also responsible for reporting to EC the development of the Rush Chair.  He shall, in coordination with the Chapter Secretary, keep a record of who was absent from fall and spring Rush and report this to the Judicial Board at the first JBM of the semester.  He shall be responsible to the Executive Committee for the conduct and performance of all officers under his supervision.  He may bring any officer under his supervision to the Judicial Board for impeachment. These elected officers are:
+
   - Rush Chair shall learn the responsibilities of the Vice-President of Member Recruitment and shall perform the duties of the Vice-President of Member Recruitment in the temporary absence or disability of the Vice-President of Member Recruitment. He is responsible for working with the Vice-President of Member Recruitment on recruitment related matters on an as needed basis. He shall be responsible planning and executing at least one rush event per semester.
 
 ### Section 6.
 The House Manager shall be responsible for the wellbeing of the house and grounds. He shall also be responsible for the administration of room assignments.  He shall be responsible for organization and execution of Work Week, to be conducted the week prior to Fall Rush. He shall be responsible for the organization and execution of mid-semester house upkeep which shall be determined at the beginning of each semester. He shall, in coordination with the Chapter Secretary, keep a record of who is absent from Work Week activities and report this to the Judicial Board at the first regular JBM of Fall Semester. He shall be responsible to the Executive Committee for the conduct and performance of all officers under his supervision.  He may bring any officer under his supervision to the Judicial Board for impeachment. These elected officers are:
+
   - Assistant House Manager shall be responsible for learning the responsibilities of the House Manager and shall perform the duties of the House Manager in the temporary absence or disability of the House Manager.  He is responsible for working with the House Manager on house and grounds related matters on an as needed basis.  He shall be responsible for assigning work assignments throughout the year as designed by the House Manager and reporting any and all fines or credits to the Treasurer. Work assignments for the entire semester shall be posted within two weeks of the conclusion of Rush with assignments prior being posted at the discretion of the House Manager.
-  
+
 ### Section 7.
 The Associate Member Educator shall be responsible for the education and development of all Associate Members of the chapter. He shall prepare the Associate Member education curriculum. He shall present to the EC the Associate Member point system at the first ECM of every semester. He shall plan Associate Member Pinning, the Associate Member Retreat, and the Associate Member Initiation. He shall be responsible to the Executive Committee for the conduct and performance of all officers on his committee.  He may bring any officer under his supervision to the Judicial Board for impeachment. These appointed officers are: (none)
 
@@ -398,10 +407,10 @@ Special committees shall be dissolved upon completion of their assignment. The c
 Committee meetings, other than regular meetings, shall be announced at regular GFM or notice posted at least 24 hours before the meeting. No business shall be transacted nor shall the meeting be called to order unless there is a quorum present. A quorum shall consist of a majority of the members of the committee.
 
 ### Section 4.
-The Campus Relations Committee shall be responsible for dealing with all facets of the chapter public relations efforts on and around the Georgia Tech campus. The committee shall meet as deemed necessary to accomplish their objectives. The committee shall be chaired by the Campus Relations Chair and shall be composed of the following appointed officers: (none)
+The Campus Relations Committee shall be responsible for dealing with all facets of the chapter public relations efforts on and around the Georgia Tech campus. The committee shall meet as deemed necessary to accomplish their objectives. The committee shall be chaired by the Campus Relations Chair and shall be composed of members selected by the Campus Relations Chair and approved by the Executive Committee. Duties of the committee members include but are not limited to coordinating mixers.
 
 ### Section 5.
-Scholarship Committee shall be made to monitor the adherence to the scholarship program. The committee shall meet as deemed necessary to accomplish their objectives. The committee shall be chaired by the Scholarship Chair and shall be composed of at least three members selected by the Scholarship Chair and approved by the Executive Committee. Duties of the committee members include but are not limited to checking class attendance of brothers and associate members on the scholarship program.
+Scholarship Committee shall be made to monitor the adherence to the scholarship program. The committee shall meet as deemed necessary to accomplish their objectives. The committee shall be chaired by the Scholarship Chair and shall be composed of members selected by the Scholarship Chair and approved by the Executive Committee. Duties of the committee members include but are not limited to checking class attendance of brothers and associate members on the scholarship program.
 
 ### Section 6.
 Any chapter officer may create a committee in which that officer is the chairman. Any active member may suggest the creation of a special committee to the President.  These committees may have their own internal structure as the chairman deems necessary, report at GFM, and will be held accountable by the President regarding plans and actions.
@@ -547,16 +556,19 @@ The Chapter or the Judicial Board shall be empowered to fine any Brother or Asso
 
 ### Section 7.
 The Treasurer shall fine a Brother or Associate Member who does not properly complete a Work Assignment as determined by the House Manager. The fine will be imposed at the first regular JBM following the missed Work Assignment. The rate of the fine will be as follows:
-  - Star Days: $10 per missed assignment
-  - Normal Days: $20 per missed assignment
+
+  - Normal Days: $10 per missed assignment
+  - Star Days: $20 per missed assignment
 
 A brother or Associate Member may complete another Brother’s or Associate member Work Assignment if said Member has not fulfilled the requirement as stated above by midnight, the day of the assignment. The Brother or Associate Member who makes up this missed assignment shall be credited as follows:
-  - Star Days: $10 per missed assignment
-  - Normal Days: $20 per missed assignment
+
+  - Normal Days: $10 per missed assignment
+  - Star Days: $20 per missed assignment
 
 A Star Day shall be defined as a day with additional cleaning requirements that do not need to be completed every single day. Days shall be designed Star Days at the discretion of the House Manager and clearly communicated to the chapter.
 
 A Brother or Associate Member who does not complete their Mid-Semester House Upkeep requirement as defined by the House Manger will receive the following fine:
+
   - $50 per uncompleted requirement
 
 ### Section 8.
@@ -575,6 +587,7 @@ Failure to comply with sanctions imposed by the J-Board will result in suspensio
 
 ### Section 9.
 All brothers whose previous term GPA is below a 3.00 shall be placed on the scholarship program. In addition all associate members who receive one or more unsatisfactory on their midterm grade report shall have added requirements.
+
 All brothers whose previous term GPA is below a 3.00 shall have the following requirements as part of the scholarship program:
 
   1. Meet with the scholarship chair during the 1st two weeks of the semester and review GPA goals and how to accomplish them. Participants should be prepared with previous semester grades, current semester schedule, and the syllabus of all current courses.
@@ -613,13 +626,13 @@ EC shall be empowered to change any of the rates mentioned in Article 14 Section
 ### Section 4.
 Chapter dues shall be charged to all active Brothers according to the following:
 
-  1. Dues shall be charged at the rate of one thousand one hundred forty ($1,140) per semester during the Active Chapter period of the fraternity to each Active Brother. Dues will increase at a rate of 3% every two semesters at the transition from spring to fall in order to account for United States currency inflation. The following shall be included within this payment:
+  1. Dues shall be charged at the rate of one thousand one hundred forty ($1,140) per semester during the Active Chapter period of the fraternity to each Active Brother. Dues will increase at a rate of 3% every two semesters at the transition from spring to fall in order to account for United States currency inflation; no-bylaw amendment will be required to update the rate in accordance to this rule. The following shall be included within this payment:
     - A fee as specified by International collected from all Associate Members and Brothers, including graduating Seniors, in the last billing period of Spring term and shall be held for liability insurance payable October 1st. No by-law amendment will be required to alter this fee; it will increase or decrease according to any changes in the International insurance fee.
     - A fee as specified by International shall be collected from all Associate Members and Brothers for membership dues. No by-law amendment will be required to alter this fee; it will increase or decrease according to any changes in the International membership fee.
-  2. A fee equal to that specified by Delta Upsilon International, as Pledging Fee, and a fee equal to the specified by the Interfraternity Council, as Pledging Fee shall be collected from each person at the time of his pledging. No person shall be pledged until his has paid the Pledging Fee. Accordingly, a fee equal to that specified by Delta Upsilon International as an Initiation Fee shall be collected from each person at the time of his initiation. No person shall be initiated until his fee is paid.
+  2. A fee equal to that specified by Delta Upsilon International, as Pledging Fee, and a fee equal to the specified by the Inter-fraternity Council, as Pledging Fee shall be collected from each person at the time of his pledging. No person shall be pledged until his has paid the Pledging Fee. Accordingly, a fee equal to that specified by Delta Upsilon International as an Initiation Fee shall be collected from each person at the time of his initiation. No person shall be initiated until his fee is paid.
   3. For all new pledges dues shall be charged at a rate of five hundred seventy dollars ($570). The same fees included in standard active brother dues (Article 14, Section 4, Subsection 1) shall be applicable to new member dues. The total amount in this section in addition to the amounts in Article 14 Section 4 Subsection 2 shall not exceed the total amount in Article 14 Section 4 Subsection 1.
   4. Brothers who participate in the Georgia Tech Study Abroad program or the Georgia Tech Co-op program outside of the Atlanta area and who are on their work term are responsible for paying one-half (½) of the Active Brother dues specified in Article 14, Section 4, Subsection 1. Co-ops who live and/or work in the Atlanta area and expect to retain all privileges of active membership shall be charged full dues. On campus co- ops shall be charged full dues
-  5. The Treasurer shall present the semesterly dues and budget for the Chapter, to be approved by the EC, at the ECM before the second to last GFM of the preceding Active term. The dues and budget may be approved in accordance with Article 10 Section 2 Subections 4 and 5.
+  5. The Treasurer shall present the semesterly dues and budget for the Chapter, to be approved by the EC, at the ECM before the second to last GFM of the preceding Active term. The dues and budget may be approved in accordance with Article 10 Section 2 Subsections 4 and 5.
 
 ### Section 5.
 The House budget must be balanced. This includes all house monthly utility and alumni rent payments. As such no money collected from dues shall be used to pay house monthly utility and alumni rent payments. The House budget shall be funded by the following:
@@ -642,13 +655,13 @@ The House budget must be balanced. This includes all house monthly utility and a
     - When someone moves out of the house, they are given their deposit back.
     - When the balance reaches $3500, up to $500 may be withdrawn for chapter use.
     - In case of a chapter financial emergency, the Treasurer may, upon agreement of himself and the President, withdraw money from this account to be transferred to the house checking account. The Chapter must be informed of this action at the next GFM. Any money withdrawn from the room deposit account for this purpose must be replaced within thirty (30) business days.
-  6. The Treasurer must present the semesterly fees and budget for the House, to be approved by the EC, at the ECM before the second to last GFM of the preceding Active term. The fees and budget may be approved in accordance with Article 10 Section 2 Subection 4 and 5.
+  6. The Treasurer must present the semesterly fees and budget for the House, to be approved by the EC, at the ECM before the second to last GFM of the preceding Active term. The fees and budget may be approved in accordance with Article 10 Section 2 Subsection 4 and 5.
 
 ### Section 6.
 The Meal Plan budget must be balanced.  This includes all utility, food, supply, and employee expenses. As such no money collected from dues shall be used to pay Meal Plan utility, food, supply, and employee expenses. The Meal Plan budget shall be funded by the following:
   1. Meal Plan Fees shall be charged at a rate determined on a semesterly basis during the Active Chapter period of the fraternity. All Active Brothers and Associate Members who live on campus shall participate in the Chapter Meal Plan. Exceptions shall be granted to those members whose excuses are approved by the Assistant Treasurer. Any excuse, which fails, may be appealed to the J-Board. The Assistant Treasurer shall have the authority to enforce adherence to excuses as approved by the J-Board.
   2. Meal Plan Fees shall be charged at a rate determined on a semesterly basis during the Summer period of the fraternity to each Active Brother who chooses to purchase a Meal Plan.
-  3. The Assistant Treasurer must present the semesterly fees and budget for the Meal Plan, to be approved by the EC, at the ECM before the second to last GFM of the preceding Active term. The fees and budget may be approved in accordance with Article 10 Section 2 Subection 4 and 5.
+  3. The Assistant Treasurer must present the semesterly fees and budget for the Meal Plan, to be approved by the EC, at the ECM before the second to last GFM of the preceding Active term. The fees and budget may be approved in accordance with Article 10 Section 2 Subsection 4 and 5.
 
 ### Section 7.
 The Treasurer shall be directly responsible for all financial matters regarding the Chapter budget and House budget, and shall oversee the Assistant Treasurer in matters regarding the Meal Plan budget. The Treasurer shall:
@@ -664,10 +677,11 @@ The Treasurer shall be directly responsible for all financial matters regarding 
     3. Announce at each ECM, the specific budgets remaining for every office that maintains a budget throughout the year.
 
 ### Section 8.
-All active Associate Members and initiated Brothers of the Fraternity must sign the Interfraternity Council’s standard payment statement form as well as the Fraternity’s Financial Obligation form. This shall be done within thirty (30) days of becoming involved with the fraternity. No P-Notes shall be granted to individuals who have not signed and submitted both forms.
+All active Associate Members and initiated Brothers of the Fraternity must sign the Inter-fraternity Council’s standard payment statement form as well as the Fraternity’s Financial Obligation form. This shall be done within thirty (30) days of becoming involved with the fraternity. No P-Notes shall be granted to individuals who have not signed and submitted both forms.
 
 ### Section 9.
 The Treasurer may, upon his discretion and investigation, approve a P-Note as specified within these By-Laws. If bills (payable to any of the fraternity accounts) are unpaid, delinquent individuals owing more than $100 shall be required to sign a P-Note. Delinquent individuals may sign a P-Note at any time before, but no later than the second week of each semester. Any delinquent individual, who does not sign a P-Note before the second week of the semester, shall be brought before the Judicial Board by the Treasurer. An acceptable P-Note is one that is payable by the first day of the last month in the term. However, the Judicial Board may, upon its discretion and investigation, approve an Extended P-Note as specified within these By-Laws. Anyone who misses any payment on their P-Note will have 10% yearly compounded interest assessed on the amount of the missed payments. The names of members who missed a payment shall be reported by the Treasurer of the Chapter at the next GFM. The Treasurer and or the Judicial Board may only alter a P-Note upon written agreement.
+
 Additionally, for extreme cases of delinquency, without an Extended P-Note, the following consequences will be applied two weeks before the end of each semester, including summer:
 
   - Anyone owing more than $2500 to the fraternity will not be allowed to live in the chapter house after the end of the semester.
@@ -675,6 +689,7 @@ Additionally, for extreme cases of delinquency, without an Extended P-Note, the 
 
 ### Section 10.
 The Judicial Board upon the detailed review of a Brother's financial status may decide to grant the signing of an Extended P-Note which shall compound the moneys owed to the chapter for those terms which a Brother is financially unable to pay the Fraternity but wishes to remain a part of the Chapter. An acceptable Extended P-Note is one that is payable within six months after graduation with a minimum payment of fifty ($50) per month and a two percent (2%) interest rate compounded monthly from the time of issuance of the Extended P-Note, should any payment be defaulted. The Judicial Board may only alter an Extended P-Note upon written agreement.
+
 This privilege may be refused/revoked upon the following conditions:
 
   - The Brother petitioning for extended payment of dues cannot demonstrate a true need for this privilege. Any Brother who has been granted reduced dues at any time has no guarantee that the privilege will be extended.
@@ -682,28 +697,29 @@ This privilege may be refused/revoked upon the following conditions:
 
 ### Section 11.
 The House Manager shall announce at a regular meeting of the Chapter and post on the bulletin board the availability of room applications for the following term. This shall be done by the eighth week of the term. Mailed notices shall be sent the seventh week of the term to all Brothers not in school but who are expected to be in school the following term. Applications for Fall Semester house residency shall be opened by the eighth week of Spring Semester. Room assignments shall be made by the House Manager according to the preferences of the Brothers submitted to him in writing. All applications for house rooms shall be due no later than two weeks after the opening date. The Judicial Board according to the following priority system shall resolve conflicts.
+
   1. The Brother’s outstanding debts to the House, including the Kitchen account, shall not exceed $100.00. Under special circumstances, this section may be overturned by a unanimous decision of the Judicial Board if a satisfactory plan of payment has been agreed upon by means of a P-Note. While the plan of payment is in effect, if payment is missed the Brother or Associate Member will have no priority for the term after which said payment was missed.
   2. The president shall have priority on room 1 however; Article 14, Section 11, Subsection 3, “Any Brother who is financially responsible for a space in the Chapter house shall have priority in the room continuously” does not apply to room 1 should the next elected president choose not to replace the previous president in room 1.
   3. Any Brother who is financially responsible for a space in the Chapter house shall have priority in the room continuously for a maximum of 6 active (Fall or Spring) semesters. This procedure will stand unless the Brother’s cumulative grade point average is below a 3.0, and both of the Brother’s past two full-time academic semesters resulted in a grade point average below 2.6, as determined by an annual grade analysis of all brothers on January 1st of every calendar year. At this point, or at the expiration of the 6 allotted semesters in the Chapter house, or 10 Fall or Spring semesters enrolled at Georgia Tech, the brother will lose squatting privileges and be moved to the bottom of the priority list for the duration of the next individual housing signup period.
-     1. Following the loss of squatting privileges, a brother may regain the priority points that he previously accumulated by earning a minimum 2.6 grade point average for one semester in which the brother completes a minimum of 6 credit hours in the summer or 12 credit hours in fall or spring semesters.
-     2. If the brother affected by a loss of housing priority as specified in Article 14, Section 11, Subsection 3 feels that he is an exception; he may then appeal his case to the E.C.
+    1. Following the loss of squatting privileges, a brother may regain the priority points that he previously accumulated by earning a minimum 2.6 grade point average for one semester in which the brother completes a minimum of 6 credit hours in the summer or 12 credit hours in fall or spring semesters.
+    2. If the brother affected by a loss of housing priority as specified in Article 14, Section 11, Subsection 3 feels that he is an exception; he may then appeal his case to the E.C.
   4. Second priority to move into the house shall be given to all elected officers.  Next priority shall be the total number of terms one has been financially responsible to the Fraternity for a space in the Chapter house, except for a Brother who has been dropped from the school roll because of unsatisfactory scholarship, or who has been inactive for more than two school terms of Active Chapter period shall have House priority below that of the least senior Brother at the time of re-admission or at the time the Brother becomes active. This procedure will stand unless a brother seeking to initially move into the house has less than a 2.6 cumulative grade point average at the time of housing signups, in which case said brother will be moved to the bottom of the priority list.
-     1. For every summer term one has been financially responsible for a space in the Chapter house, additional priority equal to one-half (1/2) Spring or Fall term’s priority shall be awarded to that Brother’s total number of terms.
-     2. For every semester during the active chapter period, all elected officers shall receive additional priority equal to one-half (1/2) Spring or Fall term’s priority in addition to their priority gained from living in the house.
-     3. For every semester one assumes the role of house dishwasher, additional priority equal to one-half (1/2) Spring or Fall term’s priority shall be awarded to that Brother’s total number of terms.
-     4. For every semester one is selected to join a committee officially sanctioned by the Interfraternity Council, additional priority equal to one-half (1/2) Spring or Fall term’s priority shall be awarded to that Brother’s total number of terms.
+    1. For every summer term one has been financially responsible for a space in the Chapter house, additional priority equal to one-half (1/2) Spring or Fall term’s priority shall be awarded to that Brother’s total number of terms.
+    2. For every semester during the active chapter period, all elected officers shall receive additional priority equal to one-half (1/2) Spring or Fall term’s priority in addition to their priority gained from living in the house.
+    3. For every semester one assumes the role of house dishwasher, additional priority equal to one-half (1/2) Spring or Fall term’s priority shall be awarded to that Brother’s total number of terms.
+    4. For every semester one is selected to join a committee officially sanctioned by the Inter-fraternity Council, additional priority equal to one-half (1/2) Spring or Fall term’s priority shall be awarded to that Brother’s total number of terms.
   5. Roll book number shall resolve any conflict not resolved by the previous methods. All brothers who expect to be ineligible to live in the House shall present their cases to the Judicial Board before the House room application deadline. Boarders located by the House Manager shall fill all room assignments not filled.
   6. All persons renting a room from the Chapter must sign the housing contract provided by the House Manager. All persons that agree to the housing contract are financially responsible for the Fall and Spring semester’s total rent and housing fees. Appeals will be heard by the E.C.
-     1. No person graduating in a Fall semester may live in the Chapter house for that semester. No person may sublet a room in the Chapter house to a Brother, nor may they sublet a room if there are any Brothers or Associate members who desire to live in the Chapter House, with the exception of the following section (1). This By-Law may not be suspended but may be amended.
-        1. Once during the time in which a person is a Brother of the fraternity, they may sublet the room they are currently financially responsible for to another Brother or Associate Member to retain the housing priority contained in Article 14, Section 11, Subsection 3 of these By-Laws (“Squatter’s Rights”).  However, the Sublettee will gain all other privileges of being financially responsible for a room in the Chapter House as outlined in Article 14, Section 11. Additionally, that space must be sublet to the Brother with the highest priority desiring to live in that space
-     2. Provided that no additional Brothers or Associate members desire to live in the Chapter House during the summer term, the subletting of any room may be considered pre-approved by the Chapter for that term.
-     3. The House Manager reserves the right to deny the subletting of any room.  This may be overturned by a simple majority vote of the Chapter or J-Board.
-     4. If a Brother wishes to gain priority for subletting a room, they will not receive any monetary compensation for finding a person to fill their space in the Chapter House.
-     5. No Brother may sublet more than one room, nor may they occupy the Chapter House as well as sublet a room in it.
-     6. Priority for subletting of rooms is as follows:
+    1. No person graduating in a Fall semester may live in the Chapter house for that semester. No person may sublet a room in the Chapter house to a Brother, nor may they sublet a room if there are any Brothers or Associate members who desire to live in the Chapter House, with the exception of the following section (1). This By-Law may not be suspended but may be amended.
+      1. Once during the time in which a person is a Brother of the fraternity, they may sublet the room they are currently financially responsible for to another Brother or Associate Member to retain the housing priority contained in Article 14, Section 11, Subsection 3 of these By-Laws (“Squatter’s Rights”).  However, the Sublettee will gain all other privileges of being financially responsible for a room in the Chapter House as outlined in Article 14, Section 11. Additionally, that space must be sublet to the Brother with the highest priority desiring to live in that space
+      2. Provided that no additional Brothers or Associate members desire to live in the Chapter House during the summer term, the subletting of any room may be considered pre-approved by the Chapter for that term.
+      3. The House Manager reserves the right to deny the subletting of any room.  This may be overturned by a simple majority vote of the Chapter or J-Board.
+      4. If a Brother wishes to gain priority for subletting a room, they will not receive any monetary compensation for finding a person to fill their space in the Chapter House.
+      5. No Brother may sublet more than one room, nor may they occupy the Chapter House as well as sublet a room in it.
+      6. Priority for subletting of rooms is as follows:
         1. All Brothers signing contracts to live in the house themselves will have first priority determined by Article 14, Section 11 of these By-Laws.
         2. Second priority will be given to Brothers wishing to sublet rooms. Any disputes will be settled by the same priority system outlined in Article 14, Section 11 of these By-Laws.
-     7. Any person intending to sublet their room must notify the House Manager no less than five (5) days prior to the close of housing sign ups. The House Manager will then assign their priority according to the prior (f.)  Brothers may not sublet rooms after this period unless approved by the House Manager and their priority is reassigned according to the prior (f.). Additionally, the Brother intending to sublet is responsible for payment of rent and housing deposit at the time of signature of contract and all collections from the subletee. That Brother is also responsible for any damage done to the house and any monetary compensation required by the fraternity for that damage.
+    7. Any person intending to sublet their room must notify the House Manager no less than five (5) days prior to the close of housing sign ups. The House Manager will then assign their priority according to the prior (f.)  Brothers may not sublet rooms after this period unless approved by the House Manager and their priority is reassigned according to the prior (f.). Additionally, the Brother intending to sublet is responsible for payment of rent and housing deposit at the time of signature of contract and all collections from the subletee. That Brother is also responsible for any damage done to the house and any monetary compensation required by the fraternity for that damage.
 
 # <a name="fifteen"></a>ARTICLE 15. The Delta Upsilon Undergraduate Endowment Fund
 
@@ -714,8 +730,8 @@ The Delta Upsilon Undergraduate Endowment Fund  is an entity managed and maintai
 The process for withdrawing funds shall be handled in the following manner:
 
   1. Following an annual audit of the Undergraduate’s budget preceding the Fall Semester, the Executive Committee will fill out a withdrawal request which will then be voted on by the Chapter by a 2/3 vote. If approved this form will be submitted to the Alumni board for evaluation.
-     1. The submitted form shall contain line items with quotes and any other relevant/supporting documents that justify the withdrawal of the amount of money prescribed in the form.
-     2. The Alumni Board will vote to withdraw money for each line item described in the form
+    1. The submitted form shall contain line items with quotes and any other relevant/supporting documents that justify the withdrawal of the amount of money prescribed in the form.
+    2. The Alumni Board will vote to withdraw money for each line item described in the form
   2. The chapter and EC has a responsibility to ensure that the funds withdrawn go towards their prescribed use, otherwise the amount of misappropriated or unused money will be returned to the Alumni Board to be deposited back into the Undergraduate Endowment Fund.
   3. Given extenuating circumstances, money can be withdrawn at a time other than the annual audit
 
@@ -738,7 +754,7 @@ Undergraduate Donations:
 
 As approved by the Board of Directors of the Fraternity and 151st Convention
 
-Adopted 2/26/86
+Adopted Feb 26, 1986
 
 WHEREAS, Delta Upsilon Fraternity finds sexual harassment of any kind, at any time, completely unacceptable and abhorrent; and
 
@@ -754,7 +770,7 @@ NOW, THEREFORE, BE IT RESOLVED THAT this 151st Convention does go on record as d
 
 As approved by the Board of Directors of the Fraternity and the 151st Convention
 
-Adopted 2/26/86
+Adopted Feb 26, 1986
 
 WHEREAS, Delta Upsilon Fraternity, established upon a foundation of Justice, declares that it is the responsibility of each pledge and member to have respect for, concern about, and appreciation of the innate worth of each individual; and
 
@@ -772,7 +788,7 @@ NOW, THEREFORE, BE IT RESOLVED THAT each chapter in Delta Upsilon Fraternity, an
 
 As approved by the Board of Directors of the Fraternity and the 151st Convention
 
-Adopted 2/26/86
+Adopted Feb 26, 1986
 
 WHEREAS, Delta Upsilon Fraternity is deeply concerned about the responsibility of each member, pledge, and every chapter to conduct its programming lawfully and responsibly; and
 
@@ -810,6 +826,6 @@ NOW, THEREFORE, BE IT RESOLVED THAT this 151st Convention of the Delta Upsilon F
   17. All brothers are responsible for keeping all common areas including the porch clean.
   18. The possession and/or use of firearms on chapter property is prohibited.
   19. No brother shall permit anybody who is not listed on the lease to use their room as their primary place of residence. Primary place of residence shall be defined as:
-     - The location where a person spends the night on a consistent basis
-     - The location of a significant amount of their belongings  
-     - Or any combination of the above that is deemed to be excessive by J-Board
+    - The location where a person spends the night on a consistent basis
+    - The location of a significant amount of their belongings  
+    - Or any combination of the above that is deemed to be excessive by J-Board
