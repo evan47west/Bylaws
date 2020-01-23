@@ -55,7 +55,7 @@ In accordance with the Four Founding Principles, the Chapter shall be:
 These By-Laws are intended to supplement and be deemed subordinate to the Constitution and By-Laws of the Delta Upsilon International Fraternity and wherever any conflict shall arise between any provision thereof and such Constitution and By- Laws of the Delta Upsilon Fraternity, hereinafter called International Fraternity.
 
 ### Section 5.
-The Chapter shall consist of all undergraduate members and graduate members thereof, and every member shall enjoy equal rights and privileges therein, except as otherwise provided in the Constitution of the International Fraternity.
+The Chapter shall consist of all undergraduate members thereof, and every member shall enjoy equal rights and privileges therein, except as otherwise provided in the Constitution of the International Fraternity.
 
 ### Section 6.
 The Chapter shall have power and authority to collect, receive, hold and disburse funds for the general purposes of the Chapter, and to receive property by gift, devise, bequest, and otherwise. Where a legacy is payable to the Chapter rather than to the Continuum of Education and such a legacy is legal under the laws of the State of Georgia, the Chapter shall receive the legacy.
@@ -161,9 +161,6 @@ All pledging shall be in accordance with the Rules and By-Laws of the Internatio
 Brothers of Delta Upsilon, duly initiated at other Chapters, who transfer to Georgia Tech, may apply for active status in the Georgia Tech Chapter after a period of two months enrollment at Georgia Tech. Their entry into active status shall be approved by a majority vote of those present and voting at a duly called regular GFM, said election to active status to take place not less than one week after their written application for affiliation has been presented at a GFM. The affiliated Brother would then be an Active Brother for the purposes of these By-Laws.
 
 ### Section 7.
-Any Alumnus wishing to become an Active Brother upon his re-enrollment at Georgia Tech shall be allowed to do so only upon a majority vote of the Active Brothers.
-
-### Section 8.
 Any male affiliated with the Georgia Tech Chapter of Delta Upsilon may become an Honorary Brother of the Georgia Tech Chapter, if approved by a 90% vote of the Active Brothers and is initiated in accordance with these By-Laws.
 
 # <a name="five"></a>ARTICLE 5. Rights, Duties, and Privileges of Members
