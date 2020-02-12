@@ -95,8 +95,7 @@ The Member Education Committee is composed of the following ten (10) Chapter off
   - Vice-President of Member Education
   - Chapter Secretary
   - Campus Relations Chair
-  - Alumni and Pa
-  Relations Chair
+  - Alumni and Parent Relations Chair
   - Risk Management and Loss Prevention Chair
   - Scholarship Development Chair
   - Philanthropy Development Chair
@@ -628,10 +627,10 @@ EC shall be empowered to change any of the rates mentioned in Article 14 Section
 Chapter dues shall be charged to all active Brothers according to the following:
 
   1. Dues shall be charged at the rate of one thousand one hundred forty ($1,140) per semester during the Active Chapter period of the fraternity to each Active Brother. Dues will increase at a rate of 3% every two semesters at the transition from spring to fall in order to account for United States currency inflation; no-bylaw amendment will be required to update the rate in accordance to this rule. The following shall be included within this payment:
-  
+
   - A fee as specified by International collected from all Associate Members and Brothers, including graduating Seniors, in the last billing period of Spring term and shall be held for liability insurance payable October 1st. No by-law amendment will be required to alter this fee; it will increase or decrease according to any changes in the International insurance fee.
   - A fee as specified by International shall be collected from all Associate Members and Brothers for membership dues. No by-law amendment will be required to alter this fee; it will increase or decrease according to any changes in the International membership fee.
-  
+
   2. A fee equal to that specified by Delta Upsilon International, as Pledging Fee, and a fee equal to the specified by the Inter-fraternity Council, as Pledging Fee shall be collected from each person at the time of his pledging. No person shall be pledged until his has paid the Pledging Fee. Accordingly, a fee equal to that specified by Delta Upsilon International as an Initiation Fee shall be collected from each person at the time of his initiation. No person shall be initiated until his fee is paid.
   3. For all new pledges dues shall be charged at a rate of five hundred seventy dollars ($570). The same fees included in standard active brother dues (Article 14, Section 4, Subsection 1) shall be applicable to new member dues. The total amount in this section in addition to the amounts in Article 14 Section 4 Subsection 2 shall not exceed the total amount in Article 14 Section 4 Subsection 1.
   4. Brothers who participate in the Georgia Tech Study Abroad program or the Georgia Tech Co-op program outside of the Atlanta area and who are on their work term are responsible for paying one-half (½) of the Active Brother dues specified in Article 14, Section 4, Subsection 1. Co-ops who live and/or work in the Atlanta area and expect to retain all privileges of active membership shall be charged full dues. On campus co- ops shall be charged full dues
@@ -641,31 +640,31 @@ Chapter dues shall be charged to all active Brothers according to the following:
 The House budget must be balanced. This includes all house monthly utility and alumni rent payments. As such no money collected from dues shall be used to pay house monthly utility and alumni rent payments. The House budget shall be funded by the following:
 
   1. Rent shall be charged at the rate of two thousand dollars ($2,000) per semester during the Active Chapter period of the fraternity to each Active Brother who chooses to live in the house. The following shall be included within this payment:
-  
+
   -  A fee of one thousand three hundred dollars ($1,300) per housing spot for payment of the Georgia Tech Chapter of Delta Upsilon Fraternity’s Alumni Association rent as set by the Chapter landlords.
   - A fee of seven hundred dollars ($700) per housing spot for payment of monthly utilities.
   - An additional fee of two hundred dollars ($200) per housing spot shall be charged to persons who live in the house but are not Active Brothers. These persons shall be referred to as boarders.  Boarders will pay a total of two thousand two hundred dollars ($2,200) per semester during the Active Chapter period.
-  
+
   2. Any room(s) not filled by the end of the housing sign-ups will be the responsibility of the active brother(s) that were most recently initiated as per role book number. Said room(s) will go to the next greatest role book number(s) if:
-  
+
   - The Brother is already living in the house.
   - The Brother is bound by another contract.
   - The brother is not financially able to pay for the room (as judged by the current treasurer).
-  
+
   3. Rent shall be charged at the rate of one thousand two hundred fifty dollars ($1250) per semester during the Summer period of the fraternity to each Active Brother who chooses to live in the house. The following shall be included within this payment:
-  
+
   - A fee of six hundred dollars ($600) per housing spot for payment of the Georgia Tech Chapter of Delta Upsilon Fraternity’s Alumni Association rent as set by the Chapter landlords.
   - A fee of six hundred fifty dollars ($650) per housing spot for payment of monthly utilities.
   - An additional fee of one hundred dollars ($100) per housing spot shall be charged to persons who live in the house but are not Active Brothers. These persons shall be referred to as boarders.  Boarders will pay a total of one thousand three hundred fifty dollars ($1350) per semester during the Summer period.
-  
+
   4. A fee of one hundred fifty dollars ($150) per Active Brother per semester during the Active Chapter period of the fraternity, as Property Fee, for the Georgia Tech Chapter of Delta Upsilon Fraternity’s Alumni Association rent as set by the Chapter landlords. The total collected Property Fees shall not exceed twenty percent (20%) of the total rent of the previous Active Semester.
   5. All persons moving into the Chapter House must post a $100.00 deposit with the Treasurer. This $100.00 deposit must be maintained the entire time that the said person is living in the Chapter House. The Treasurer shall apply any part or all of this deposit to defray any expenses on the part of the depositor. At that time, the depositor shall remit an amount that will bring the balance of the deposit to at least $100.00. The deposit shall be returned when the depositor moves from the Chapter House and the House Manager signifies that the room is in satisfactory condition. This deposit shall be forfeited if a person decides to move out of the Chapter House and does not notify the House Manager before the deadline for room applications. This does not apply to those who move out of the Chapter House for reasons beyond their control, i.e. failing out of school, being drafted, etc. The deposits are to be paid to a separate account. This account will remain idle until it has reached a minimum of $3500 (with interest) and will only be withdrawn from when:
-  
+
   - Upon forfeiture of a deposit the Treasurer may transfer the $100 to the house checking.
   - When someone moves out of the house, they are given their deposit back.
   - When the balance reaches $3500, up to $500 may be withdrawn for chapter use.
   - In case of a chapter financial emergency, the Treasurer may, upon agreement of himself and the President, withdraw money from this account to be transferred to the house checking account. The Chapter must be informed of this action at the next GFM. Any money withdrawn from the room deposit account for this purpose must be replaced within thirty (30) business days.
-  
+
   6. The Treasurer must present the semesterly fees and budget for the House, to be approved by the EC, at the ECM before the second to last GFM of the preceding Active term. The fees and budget may be approved in accordance with Article 10 Section 2 Subsection 4 and 5.
 
 ### Section 6.
