@@ -1,4 +1,4 @@
-Updated: Apr 5, 2020 by Ryan Cobelli (Member-at-Large)
+Updated: Apr 9, 2020 by Ryan Cobelli (Member-at-Large)
 
 ---
 
@@ -635,7 +635,7 @@ Chapter dues shall be charged to all active Brothers according to the following:
   3. For all new pledges dues shall be charged at a rate of five hundred seventy dollars ($570). The same fees included in standard active brother dues (Article 14, Section 4, Subsection 1) shall be applicable to new member dues. The total amount in this section in addition to the amounts in Article 14 Section 4 Subsection 2 shall not exceed the total amount in Article 14 Section 4 Subsection 1.
   4. Brothers who participate in the Georgia Tech Study Abroad program or the Georgia Tech Co-op program outside of the Atlanta area and who are on their work term are responsible for paying one-half (½) of the Active Brother dues specified in Article 14, Section 4, Subsection 1. Co-ops who live and/or work in the Atlanta area and expect to retain all privileges of active membership shall be charged full dues. On campus co- ops shall be charged full dues
   5. The Treasurer shall present the semesterly dues and budget for the Chapter, to be approved by the EC, at the ECM before the second to last GFM of the preceding Active term. The dues and budget may be approved in accordance with Article 10 Section 2 Subsections 4 and 5.
-  6. If dues have not beed paid within 2 weeks of the day that the charge was sent out, then it shall be subject to late fees as specified in Article 14, Section 12.
+  6. If dues have not beed paid within 3 weeks of the day that the charge was sent out, then it shall be subject to late fees as specified in Article 14, Section 12.
 
 ### Section 5.
 The House budget must be balanced. This includes all house monthly utility and alumni rent payments. As such no money collected from dues shall be used to pay house monthly utility and alumni rent payments. The House budget shall be funded by the following:
@@ -674,11 +674,11 @@ The Meal Plan budget must be balanced. This includes all utility, food, supply, 
   1. Meal Plan Fees shall be charged at a rate determined on a semesterly basis during the Active Chapter period of the fraternity. All Active Brothers and Associate Members who live on campus shall participate in the Chapter Meal Plan. Exceptions shall be granted to those members whose excuses are approved by the Assistant Treasurer. Any excuse, which fails, may be appealed to the J-Board. The Assistant Treasurer shall have the authority to enforce adherence to excuses as approved by the J-Board.
   2. Meal Plan Fees shall be charged at a rate determined on a semesterly basis during the Summer period of the fraternity to each Active Brother who chooses to purchase a Meal Plan.
   3. The Assistant Treasurer must present the semesterly fees and budget for the Meal Plan, to be approved by the EC, at the ECM before the second to last GFM of the preceding Active term. The fees and budget may be approved in accordance with Article 10 Section 2 Subsection 4 and 5.
-  4. If the meal plan fee has not beed paid within 2 weeks of the day that the charge was sent out, then it shall be subject to late fees as specified in Article 14, Section 12.
+  4. If the meal plan fee has not beed paid within 3 weeks of the day that the charge was sent out, then it shall be subject to late fees as specified in Article 14, Section 12.
 
 ### Section 7.
 The Treasurer shall be directly responsible for all financial matters regarding the Chapter budget and House budget, and shall oversee the Assistant Treasurer in matters regarding the Meal Plan budget. The Treasurer shall:
-  1. Keep accounts for all Brothers, Associate Members, and any other person who shall be responsible for making payments to the house.  He will be responsible to bill for all dues, fees, room, and other financial obligations that such individuals may incur and owe.  Bills must be issued to each individual who owes the Chapter money within the first 2 weeks of a given semester during the Active Chapter Period, and are due ten (10) days after being issued.  Money paid by an individual to the Fraternity shall pay for the following items in the order listed:
+  1. Keep accounts for all Brothers, Associate Members, and any other person who shall be responsible for making payments to the house.  He will be responsible to bill for all dues, fees, room, and other financial obligations that such individuals may incur and owe.  Bills must be issued to each individual who owes the Chapter money within the first 2 weeks of a given semester during the Active Chapter Period.  Money paid by an individual to the Fraternity shall pay for the following items in the order listed:
     1. Money will go toward paying off the amount(s) remaining on any defaulted P-Note(s).
     2. Money will go toward paying off the amount(s) remaining on any current P-Note(s).
     3. Money will go towards paying off all current debts and/or fees.
