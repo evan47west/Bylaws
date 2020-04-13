@@ -1,4 +1,4 @@
-Updated: Feb 11, 2020 by Ryan Cobelli (Member-at-Large)
+Updated: Apr 9, 2020 by Ryan Cobelli (Member-at-Large)
 
 ---
 
@@ -635,6 +635,7 @@ Chapter dues shall be charged to all active Brothers according to the following:
   3. For all new pledges dues shall be charged at a rate of five hundred seventy dollars ($570). The same fees included in standard active brother dues (Article 14, Section 4, Subsection 1) shall be applicable to new member dues. The total amount in this section in addition to the amounts in Article 14 Section 4 Subsection 2 shall not exceed the total amount in Article 14 Section 4 Subsection 1.
   4. Brothers who participate in the Georgia Tech Study Abroad program or the Georgia Tech Co-op program outside of the Atlanta area and who are on their work term are responsible for paying one-half (½) of the Active Brother dues specified in Article 14, Section 4, Subsection 1. Co-ops who live and/or work in the Atlanta area and expect to retain all privileges of active membership shall be charged full dues. On campus co- ops shall be charged full dues
   5. The Treasurer shall present the semesterly dues and budget for the Chapter, to be approved by the EC, at the ECM before the second to last GFM of the preceding Active term. The dues and budget may be approved in accordance with Article 10 Section 2 Subsections 4 and 5.
+  6. If dues have not beed paid within 3 weeks of the day that the charge was sent out, then it shall be subject to late fees as specified in Article 14, Section 12.
 
 ### Section 5.
 The House budget must be balanced. This includes all house monthly utility and alumni rent payments. As such no money collected from dues shall be used to pay house monthly utility and alumni rent payments. The House budget shall be funded by the following:
@@ -666,16 +667,18 @@ The House budget must be balanced. This includes all house monthly utility and a
   - In case of a chapter financial emergency, the Treasurer may, upon agreement of himself and the President, withdraw money from this account to be transferred to the house checking account. The Chapter must be informed of this action at the next GFM. Any money withdrawn from the room deposit account for this purpose must be replaced within thirty (30) business days.
 
   6. The Treasurer must present the semesterly fees and budget for the House, to be approved by the EC, at the ECM before the second to last GFM of the preceding Active term. The fees and budget may be approved in accordance with Article 10 Section 2 Subsection 4 and 5.
+  7. Rent is due on the first day of the academic semester (as set by the Georgia Institute of Technology). If the rent charge has not been paid by the due date, then it shall be subject to late fees as specified in Article 14, Section 12.
 
 ### Section 6.
 The Meal Plan budget must be balanced. This includes all utility, food, supply, and employee expenses. As such no money collected from dues shall be used to pay Meal Plan utility, food, supply, and employee expenses. The Meal Plan budget shall be funded by the following:
   1. Meal Plan Fees shall be charged at a rate determined on a semesterly basis during the Active Chapter period of the fraternity. All Active Brothers and Associate Members who live on campus shall participate in the Chapter Meal Plan. Exceptions shall be granted to those members whose excuses are approved by the Assistant Treasurer. Any excuse, which fails, may be appealed to the J-Board. The Assistant Treasurer shall have the authority to enforce adherence to excuses as approved by the J-Board.
   2. Meal Plan Fees shall be charged at a rate determined on a semesterly basis during the Summer period of the fraternity to each Active Brother who chooses to purchase a Meal Plan.
   3. The Assistant Treasurer must present the semesterly fees and budget for the Meal Plan, to be approved by the EC, at the ECM before the second to last GFM of the preceding Active term. The fees and budget may be approved in accordance with Article 10 Section 2 Subsection 4 and 5.
+  4. If the meal plan fee has not beed paid within 3 weeks of the day that the charge was sent out, then it shall be subject to late fees as specified in Article 14, Section 12.
 
 ### Section 7.
 The Treasurer shall be directly responsible for all financial matters regarding the Chapter budget and House budget, and shall oversee the Assistant Treasurer in matters regarding the Meal Plan budget. The Treasurer shall:
-  1. Keep accounts for all Brothers, Associate Members, and any other person who shall be responsible for making payments to the house.  He will be responsible to bill for all dues, fees, room, and other financial obligations that such individuals may incur and owe.  Bills must be issued to each individual who owes the Chapter money within the first 2 weeks of a given semester during the Active Chapter Period, and are due ten (10) days after being issued.  Money paid by an individual to the Fraternity shall pay for the following items in the order listed:
+  1. Keep accounts for all Brothers, Associate Members, and any other person who shall be responsible for making payments to the house.  He will be responsible to bill for all dues, fees, room, and other financial obligations that such individuals may incur and owe.  Bills must be issued to each individual who owes the Chapter money within the first 2 weeks of a given semester during the Active Chapter Period.  Money paid by an individual to the Fraternity shall pay for the following items in the order listed:
     1. Money will go toward paying off the amount(s) remaining on any defaulted P-Note(s).
     2. Money will go toward paying off the amount(s) remaining on any current P-Note(s).
     3. Money will go towards paying off all current debts and/or fees.
@@ -730,6 +733,20 @@ The House Manager shall announce at a regular meeting of the Chapter and post on
         1. All Brothers signing contracts to live in the house themselves will have first priority determined by Article 14, Section 11 of these By-Laws.
         2. Second priority will be given to Brothers wishing to sublet rooms. Any disputes will be settled by the same priority system outlined in Article 14, Section 11 of these By-Laws.
     7. Any person intending to sublet their room must notify the House Manager no less than five (5) days prior to the close of housing sign ups. The House Manager will then assign their priority according to the prior (f.)  Brothers may not sublet rooms after this period unless approved by the House Manager and their priority is reassigned according to the prior (f.). Additionally, the Brother intending to sublet is responsible for payment of rent and housing deposit at the time of signature of contract and all collections from the subletee. That Brother is also responsible for any damage done to the house and any monetary compensation required by the fraternity for that damage.
+
+### Section 12.
+Any charge as specified in these bylaws that is subject to late fees, shall be subject to the following:
+
+  - If the charge is paid by the specified due date, then no late fee shall be assessed
+  - If the charge is paid within 2 weeks following the due date, then they shall be charged a late fee of 10% of the original amount owed
+  - If the charge is paid after 2 weeks following the due date, then they shall be subject to the 10% late fee plus $10 per day (not including the two weeks period as specified above) until payment is made
+
+If no due date is explicitly specified then the due date shall be assumed to be 2 weeks from the day that the charges are sent out.
+
+The executive committee may waive these late fees under the following circumstances:
+
+  - The brother is on a payment plan as approved by the treasurer
+  - Other special circumstances that the majority of the executive committee deem to be a valid reason
 
 # <a name="fifteen"></a>ARTICLE 15. The Delta Upsilon Undergraduate Endowment Fund
 
