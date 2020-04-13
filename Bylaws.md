@@ -1,4 +1,4 @@
-Updated: Apr 9, 2020 by Ryan Cobelli (Member-at-Large)
+Updated: Apr 13, 2020 by Ryan Cobelli (Member-at-Large)
 
 ---
 
@@ -626,7 +626,7 @@ EC shall be empowered to change any of the rates mentioned in Article 14 Section
 ### Section 4.
 Chapter dues shall be charged to all active Brothers according to the following:
 
-  1. Dues shall be charged at the rate of one thousand one hundred forty ($1,140) per semester during the Active Chapter period of the fraternity to each Active Brother. Dues will increase at a rate of 3% every two semesters at the transition from spring to fall in order to account for United States currency inflation; no-bylaw amendment will be required to update the rate in accordance to this rule. The following shall be included within this payment:
+  1. Dues shall be charged at the rate of one thousand one hundred seventy four ($1,174) per semester during the Active Chapter period of the fraternity to each Active Brother. Dues will increase at a rate of 3% every two semesters at the transition from spring to fall in order to account for United States currency inflation; no-bylaw amendment will be required to update the rate in accordance to this rule. The following shall be included within this payment:
 
   - A fee as specified by International collected from all Associate Members and Brothers, including graduating Seniors, in the last billing period of Spring term and shall be held for liability insurance payable October 1st. No by-law amendment will be required to alter this fee; it will increase or decrease according to any changes in the International insurance fee.
   - A fee as specified by International shall be collected from all Associate Members and Brothers for membership dues. No by-law amendment will be required to alter this fee; it will increase or decrease according to any changes in the International membership fee.
@@ -640,11 +640,11 @@ Chapter dues shall be charged to all active Brothers according to the following:
 ### Section 5.
 The House budget must be balanced. This includes all house monthly utility and alumni rent payments. As such no money collected from dues shall be used to pay house monthly utility and alumni rent payments. The House budget shall be funded by the following:
 
-  1. Rent shall be charged at the rate of two thousand dollars ($2,000) per semester during the Active Chapter period of the fraternity to each Active Brother who chooses to live in the house. The following shall be included within this payment:
+  1. Rent shall be charged at the rate of two thousand one hundred dollars ($2,100) per semester during the Active Chapter period of the fraternity to each Active Brother who chooses to live in the house. The following shall be included within this payment:
 
-  -  A fee of one thousand three hundred dollars ($1,300) per housing spot for payment of the Georgia Tech Chapter of Delta Upsilon Fraternity’s Alumni Association rent as set by the Chapter landlords.
-  - A fee of seven hundred dollars ($700) per housing spot for payment of monthly utilities.
-  - An additional fee of two hundred dollars ($200) per housing spot shall be charged to persons who live in the house but are not Active Brothers. These persons shall be referred to as boarders.  Boarders will pay a total of two thousand two hundred dollars ($2,200) per semester during the Active Chapter period.
+  -  A fee of one thousand five hundred dollars ($1,500) per housing spot for payment of the Georgia Tech Chapter of Delta Upsilon Fraternity’s Alumni Association rent as set by the Chapter landlords.
+  - A fee of six hundred dollars ($600) per housing spot for payment of monthly utilities.
+  - An additional fee of two hundred dollars ($200) per housing spot shall be charged to persons who live in the house but are not Active Brothers. These persons shall be referred to as boarders.  Boarders will pay a total of two thousand three hundred dollars ($2,300) per semester during the Active Chapter period.
 
   2. Any room(s) not filled by the end of the housing sign-ups will be the responsibility of the active brother(s) that were most recently initiated as per role book number. Said room(s) will go to the next greatest role book number(s) if:
 
@@ -658,7 +658,7 @@ The House budget must be balanced. This includes all house monthly utility and a
   - A fee of six hundred fifty dollars ($650) per housing spot for payment of monthly utilities.
   - An additional fee of one hundred dollars ($100) per housing spot shall be charged to persons who live in the house but are not Active Brothers. These persons shall be referred to as boarders.  Boarders will pay a total of one thousand three hundred fifty dollars ($1350) per semester during the Summer period.
 
-  4. A fee of one hundred fifty dollars ($150) per Active Brother per semester during the Active Chapter period of the fraternity, as Property Fee, for the Georgia Tech Chapter of Delta Upsilon Fraternity’s Alumni Association rent as set by the Chapter landlords. The total collected Property Fees shall not exceed twenty percent (20%) of the total rent of the previous Active Semester.
+  4. A fee of two hundred dollars ($200) per Active Brother per semester during the Active Chapter period of the fraternity, as Property Fee. The total collected Property Fees shall not exceed twenty percent (20%) of the total rent of the previous Active Semester.
   5. All persons moving into the Chapter House must post a $100.00 deposit with the Treasurer. This $100.00 deposit must be maintained the entire time that the said person is living in the Chapter House. The Treasurer shall apply any part or all of this deposit to defray any expenses on the part of the depositor. At that time, the depositor shall remit an amount that will bring the balance of the deposit to at least $100.00. The deposit shall be returned when the depositor moves from the Chapter House and the House Manager signifies that the room is in satisfactory condition. This deposit shall be forfeited if a person decides to move out of the Chapter House and does not notify the House Manager before the deadline for room applications. This does not apply to those who move out of the Chapter House for reasons beyond their control, i.e. failing out of school, being drafted, etc. The deposits are to be paid to a separate account. This account will remain idle until it has reached a minimum of $3500 (with interest) and will only be withdrawn from when:
 
   - Upon forfeiture of a deposit the Treasurer may transfer the $100 to the house checking.
@@ -671,6 +671,7 @@ The House budget must be balanced. This includes all house monthly utility and a
 
 ### Section 6.
 The Meal Plan budget must be balanced. This includes all utility, food, supply, and employee expenses. As such no money collected from dues shall be used to pay Meal Plan utility, food, supply, and employee expenses. The Meal Plan budget shall be funded by the following:
+
   1. Meal Plan Fees shall be charged at a rate determined on a semesterly basis during the Active Chapter period of the fraternity. All Active Brothers and Associate Members who live on campus shall participate in the Chapter Meal Plan. Exceptions shall be granted to those members whose excuses are approved by the Assistant Treasurer. Any excuse, which fails, may be appealed to the J-Board. The Assistant Treasurer shall have the authority to enforce adherence to excuses as approved by the J-Board.
   2. Meal Plan Fees shall be charged at a rate determined on a semesterly basis during the Summer period of the fraternity to each Active Brother who chooses to purchase a Meal Plan.
   3. The Assistant Treasurer must present the semesterly fees and budget for the Meal Plan, to be approved by the EC, at the ECM before the second to last GFM of the preceding Active term. The fees and budget may be approved in accordance with Article 10 Section 2 Subsection 4 and 5.
@@ -678,6 +679,7 @@ The Meal Plan budget must be balanced. This includes all utility, food, supply, 
 
 ### Section 7.
 The Treasurer shall be directly responsible for all financial matters regarding the Chapter budget and House budget, and shall oversee the Assistant Treasurer in matters regarding the Meal Plan budget. The Treasurer shall:
+
   1. Keep accounts for all Brothers, Associate Members, and any other person who shall be responsible for making payments to the house.  He will be responsible to bill for all dues, fees, room, and other financial obligations that such individuals may incur and owe.  Bills must be issued to each individual who owes the Chapter money within the first 2 weeks of a given semester during the Active Chapter Period.  Money paid by an individual to the Fraternity shall pay for the following items in the order listed:
     1. Money will go toward paying off the amount(s) remaining on any defaulted P-Note(s).
     2. Money will go toward paying off the amount(s) remaining on any current P-Note(s).
