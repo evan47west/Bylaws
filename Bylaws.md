@@ -569,7 +569,7 @@ A Star Day shall be defined as a day with additional cleaning requirements that 
 
 A Brother or Associate Member who does not complete their Mid-Semester House Upkeep requirement as defined by the House Manger will receive the following fine:
 
-  - $50 per uncompleted requirement
+  - $30 per uncompleted requirement
 
 ### Section 8.
 Any Active Brother or Associate Member involved in any violation of Chapter Policies as defined in the By-Laws including but not limited to sexual harassment, hazing, or any abuse of alcohol or drugs, defined as:
@@ -658,7 +658,8 @@ The House budget must be balanced. This includes all house monthly utility and a
   - A fee of six hundred fifty dollars ($650) per housing spot for payment of monthly utilities.
   - An additional fee of one hundred dollars ($100) per housing spot shall be charged to persons who live in the house but are not Active Brothers. These persons shall be referred to as boarders.  Boarders will pay a total of one thousand three hundred fifty dollars ($1350) per semester during the Summer period.
 
-  4. A fee of two hundred dollars ($200) per Active Brother per semester during the Active Chapter period of the fraternity, as Property Fee. The total collected Property Fees shall not exceed twenty percent (20%) of the total rent of the previous Active Semester.
+  4. A fee of up to two hundred dollars ($200) per Active Brother per semester during the Active Chapter period of the fraternity, as House Fee. The total collected House Fees shall not exceed twenty percent (20%) of the total rent of the previous Active Semester.
+  
   5. All persons moving into the Chapter House must post a $100.00 deposit with the Treasurer. This $100.00 deposit must be maintained the entire time that the said person is living in the Chapter House. The Treasurer shall apply any part or all of this deposit to defray any expenses on the part of the depositor. At that time, the depositor shall remit an amount that will bring the balance of the deposit to at least $100.00. The deposit shall be returned when the depositor moves from the Chapter House and the House Manager signifies that the room is in satisfactory condition. This deposit shall be forfeited if a person decides to move out of the Chapter House and does not notify the House Manager before the deadline for room applications. This does not apply to those who move out of the Chapter House for reasons beyond their control, i.e. failing out of school, being drafted, etc. The deposits are to be paid to a separate account. This account will remain idle until it has reached a minimum of $3500 (with interest) and will only be withdrawn from when:
 
   - Upon forfeiture of a deposit the Treasurer may transfer the $100 to the house checking.
@@ -667,7 +668,7 @@ The House budget must be balanced. This includes all house monthly utility and a
   - In case of a chapter financial emergency, the Treasurer may, upon agreement of himself and the President, withdraw money from this account to be transferred to the house checking account. The Chapter must be informed of this action at the next GFM. Any money withdrawn from the room deposit account for this purpose must be replaced within thirty (30) business days.
 
   6. The Treasurer must present the semesterly fees and budget for the House, to be approved by the EC, at the ECM before the second to last GFM of the preceding Active term. The fees and budget may be approved in accordance with Article 10 Section 2 Subsection 4 and 5.
-  7. Rent is due on the first day of the academic semester (as set by the Georgia Institute of Technology). If the rent charge has not been paid by the due date, then it shall be subject to late fees as specified in Article 14, Section 12.
+  7. Rent is due on the first day of the academic semester (as set by the Georgia Institute of Technology). If the rent charge has not been paid by the due date, then it shall be subject to late fees as specified in the contract (if no late fee is specified then it shall default to Article 14, Section 12).
 
 ### Section 6.
 The Meal Plan budget must be balanced. This includes all utility, food, supply, and employee expenses. As such no money collected from dues shall be used to pay Meal Plan utility, food, supply, and employee expenses. The Meal Plan budget shall be funded by the following:
