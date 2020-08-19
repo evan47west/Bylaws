@@ -519,7 +519,7 @@ If a J-Board Member accrues two or more unexcused absences in any academic term,
 Any decision, ruling, or motion determined by the Judicial Board may be overturned by a 2/3 vote of the active Chapter, present and voting, at any GFM within 2 weeks of the JBM vote on the matter.
 
 ### Section 12.
-No matter may be brought before the Judicial Board more than 4 chapters after the incident in question has occured. The Member at Large must be informed within the 4 chapter time-frame but the case does not have to be heard within 4 chapters. Any case that is raised more than 4 chapters since the incident ocured is considered beyond the statute of limitations. 
+Any matter that may be brought before the Judicial Board has a statute of limitations of 4 GFMs. The Member at Large must be informed within the 4 GFM time-frame but the case does not have to be heard within the statute of limitations. Any case that is raised more than 4 GFMs after the incident ocured is considered beyond the statute of limitations and moot. 
 
 # <a name="thirteen"></a>ARTICLE 13. Sanctions
 
