@@ -28,5 +28,5 @@ jobs:
         # Location of markdown files in github repository
         markdown_dir: .
         # Location to output PDF files to
-        output_dir: .
+        output_dir: tmp
 
