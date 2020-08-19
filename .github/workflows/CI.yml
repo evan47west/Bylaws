@@ -17,19 +17,18 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v2
-      - name: Publish PDF Document
+      - name: Generate PDF Document
         uses: shrink/actions-document-publish@v1
         id: publish-document
         with:
           sources: 'Bylaws.md'
-      - name: add file
-        run: git add ${{ steps.publish-document.outputs.pdf }}
-      - name: check for changes
-        run: git status
-      - name: Upload Document
-        uses: actions/upload-artifact@v2
-        id: upload-document
+      - name: Move output
+        run: mv ${{ steps.publish-document.outputs.pdf }} Bylaws.pdf
+      - name: Commit changes
+        uses: EndBug/add-and-commit@v4
         with:
-          name: 'document.pdf'
-          path: ${{ steps.publish-document.outputs.pdf }}
+          author_name: Github Actions
+          author_email: noreply@github.com
+          message: "Auto-generate PDF"
+          add: "Bylaws.pdf"
 
