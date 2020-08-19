@@ -22,6 +22,8 @@ jobs:
         id: publish-document
         with:
           sources: 'Bylaws.md'
+      - name: add file
+        run: git add ${{ steps.publish-document.outputs.pdf }}
       - name: check for changes
         run: git status
       - name: Upload Document
