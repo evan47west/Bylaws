@@ -22,6 +22,8 @@ jobs:
         id: publish-document
         with:
           sources: 'Bylaws.md'
+      - name: check for changes
+        run: git status
       - name: Upload Document
         uses: actions/upload-artifact@v2
         id: upload-document
