@@ -521,6 +521,9 @@ If a J-Board Member accrues two or more unexcused absences in any academic term,
 ### Section 11.
 Any decision, ruling, or motion determined by the Judicial Board may be overturned by a 2/3 vote of the active Chapter, present and voting, at any GFM within 2 weeks of the JBM vote on the matter.
 
+### Section 12.
+Any matter that may be brought before the Judicial Board has a statute of limitations of 4 GFMs. The Member at Large must be informed within the 4 GFM time-frame but the case does not have to be heard within the statute of limitations. Any case that is raised more than 4 GFMs after the incident ocured is considered beyond the statute of limitations and moot. 
+
 # <a name="thirteen"></a>ARTICLE 13. Sanctions
 
 ### Section 1.
@@ -753,6 +756,9 @@ The executive committee may waive these late fees under the following circumstan
 
   - The brother is on a payment plan as approved by the treasurer
   - Other special circumstances that the majority of the executive committee deem to be a valid reason
+  
+### Section 13.
+Any request for a reimbursement with chapter funding must be submitted to the treasurer in writing within 4 weeks of the purchase being made. Any requests for a reimbursement made after 4 weeks shall be invalid and must not be approved.
 
 # <a name="fifteen"></a>ARTICLE 15. The Delta Upsilon Undergraduate Endowment Fund
 
