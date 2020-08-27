@@ -183,6 +183,9 @@ Any person who is not an Active Brother or Alumnus may be refused the courtesies
 ### Section 6.
 Parking in the parking lot of Delta Upsilon fraternity is reserved solely for brothers who both live in house and currently possess a car on campus. Guest parking leniency, assigned parking, and punishments for those who violate parking rules are at the House Manager’s discretion.
 
+### Section 7.
+Any brother may bring a person of concern to the attention of the Executive Committee. Upon this aciton, the Executive Committee may choose to bring a vote to the chapter to ban this person from all chapter sponsored/affiliated events and the shared spaces on chapter premesis. This vote shall require a 2/3rds vote of the chapter and shall only be appealable at the first GFM of every semester. This list of banned persons shall be the responsbility of the Risk Manager to maintain and enforce.
+
 # <a name="six"></a>ARTICLE 6. Meetings
 
 ### Section 1.  
