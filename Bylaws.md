@@ -1,4 +1,4 @@
-Updated: Sep 3, 2020 by Ryan Cobelli (Member-at-Large)
+Updated: Sep 9, 2020 by Ryan Cobelli (Member-at-Large)
 
 ---
 
@@ -123,6 +123,7 @@ Mandatory Events are events that all Active Brothers and Associate Members are r
   5. Associate Member Initiation – an event planned by the Associate Member Educator signifying that the Associate Members are now fully initiated Active Brothers.
   6. GFM
   7. Recruitment Seminar - an event planned by the Vice-President Member Recruitment with the primary goal of educating brothers on how to properly and effectively conduct Rush
+  8. Sexual Assault Prevention/Awareness Training - an event planned by the Vice-President Member Education with the goal of educating brothers on sexual assault prevention and awareness
 
 ### Section 7.
 An Associate Member shall be any prospective brother of Delta Upsilon who has accepted a duly offered bid, taken the oath at a pledging ceremony, and who has not been initiated or de-pledged. No person shall remain an Associate Member for more than two semesters unless he is re-bid by the Chapter.
