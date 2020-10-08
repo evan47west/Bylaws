@@ -398,7 +398,7 @@ The Vice-President of Member Recruitment shall coordinate the recruitment progra
   - Rush Chair shall learn the responsibilities of the Vice-President of Member Recruitment and shall perform the duties of the Vice-President of Member Recruitment in the temporary absence or disability of the Vice-President of Member Recruitment. He is responsible for working with the Vice-President of Member Recruitment on recruitment related matters on an as needed basis. He shall be responsible planning and executing at least one rush event per semester.
 
 ### Section 6.
-The House Manager shall be responsible for the wellbeing of the house and grounds. He shall also be responsible for the administration of room assignments.  He shall be responsible for organization and execution of Work Week, to be conducted the week prior to Fall Rush. He shall be responsible for the organization and execution of mid-semester house upkeep which shall be determined at the beginning of each semester. He shall, in coordination with the Chapter Secretary, keep a record of who is absent from Work Week activities and report this to the Judicial Board at the first regular JBM of Fall Semester. He shall be responsible to the Executive Committee for the conduct and performance of all officers under his supervision.  He may bring any officer under his supervision to the Judicial Board for impeachment. These elected officers are:
+The House Manager shall be responsible for the wellbeing of the house and grounds. He shall also be responsible for the administration of room assignments.  He shall be responsible for organization and execution of Work Week, to be conducted the week prior to Fall Rush. He shall be responsible for the organization and monitoring of work tasks. He shall, in coordination with the Chapter Secretary, keep a record of who is absent from Work Week activities and report this to the Judicial Board at the first regular JBM of Fall Semester. He shall be responsible to the Executive Committee for the conduct and performance of all officers under his supervision.  He may bring any officer under his supervision to the Judicial Board for impeachment. These elected officers are:
 
   - Assistant House Manager shall be responsible for learning the responsibilities of the House Manager and shall perform the duties of the House Manager in the temporary absence or disability of the House Manager.  He is responsible for working with the House Manager on house and grounds related matters on an as needed basis.  He shall be responsible for assigning work assignments throughout the year as designed by the House Manager and reporting any and all fines or credits to the Treasurer. Work assignments for the entire semester shall be posted within two weeks of the conclusion of Rush with assignments prior being posted at the discretion of the House Manager.
 
@@ -563,6 +563,7 @@ Sanctions can be either full or partial as determined by the sanctioning body. P
   13. Increased philanthropy
   14. Event sober monitor
   15. Event clean up and/or set up
+  16. Additional work tasks
 
 ### Section 6.
 The Chapter or the Judicial Board shall be empowered to fine any Brother or Associate Member for failure to comply with sanctions imposed by the J-Board or by the General Chapter. The amount of the fine shall be determined by whichever governing body imposed the original sanctions but shall be no less than $5 nor exceed $100 unless otherwise stated in these By-Laws.
@@ -580,11 +581,12 @@ A brother or Associate Member may complete another Brother’s or Associate memb
 
 A Star Day shall be defined as a day with additional cleaning requirements that do not need to be completed every single day. Days shall be designed Star Days at the discretion of the House Manager and clearly communicated to the chapter.
 
-A Brother or Associate Member who does not complete their Mid-Semester House Upkeep requirement as defined by the House Manger will receive the following fine:
-
-  - $30 per uncompleted requirement
-
 ### Section 8.
+At the end of each academic year (or the Fall semester if a Brother is graduating), Brothers shall be fined $30 per uncompleted work task. Work tasks shall rollover from Fall semester to Spring semester. 
+
+At the end of each academic year, any Brothers who have completed additional work tasks beyond what was required shall be entitled to a share of the collected work task fines in proportion to the amount of additional work tasks that he completed.
+
+### Section 9.
 Any Active Brother or Associate Member involved in any violation of Chapter Policies as defined in the By-Laws including but not limited to sexual harassment, hazing, or any abuse of alcohol or drugs, defined as:
 
   1. Any situation that attracts attention from outside the Georgia Tech Chapter of Delta Upsilon Fraternity, or
@@ -598,7 +600,7 @@ Will result in immediate sanctions for the respective Brother or group of Brothe
 
 Failure to comply with sanctions imposed by the J-Board will result in suspension of any or all of the rights and privileges of membership. Failure to begin the program within one term of the J-Board decision will automatically begin expulsion proceedings in accordance with the by-laws of the International Fraternity.
 
-### Section 9.
+### Section 10.
 All brothers whose previous term GPA is below a 3.00 shall be placed on the scholarship program. In addition all associate members who receive one or more unsatisfactory on their midterm grade report shall have added requirements.
 
 All brothers whose previous term GPA is below a 3.00 shall have the following requirements as part of the scholarship program:
